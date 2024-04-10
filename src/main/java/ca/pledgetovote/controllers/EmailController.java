@@ -59,6 +59,8 @@ public class EmailController {
         return status;
     }
 
+
+    //Junk
     @GetMapping("/greeting")
     public String greetingForm(Model model) {
         model.addAttribute("emailDetails", new EmailDetails());
