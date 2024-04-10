@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.angus:jakarta.mail:1.0.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.eclipse.angus" artifactId="jakarta.mail" version="1.0.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.angus/jakarta.mail/1.0.0/f532ff97458d67ea6f4bfff372bfaae8803cad66/jakarta.mail-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
